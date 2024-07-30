@@ -37,9 +37,8 @@ function Videopage() {
       </video> */}
       {/* <Button type='submit' variant='contained' style={{marginTop: '20px'}} onClick={() =>  navigate('/register')}>Skip Intro</Button> */}
       <div className='text' id='text'>
-      <h1>Hello friends!</h1>
-        <h1>It's time to unleash your knowledge to conquer the seas of wisdom with scholar sharks.</h1>
-        <h1>Use your skills and knowledge to bag outstanding prizes and make a difference with our outstanding quizzes.</h1>
+      <h1>These tides of knowledge and curiosity will lead you to the shore. Sharks are the apex predators of the ocean. Do you have what it takes to be one?</h1>
+        <h1>As the tides of knowledge and curiosity guide you to uncharted shores, you find yourself on the brink of discovery. Here,  mysterious ocean, the shark reigns as the apex predator. Its power and prowess are unmatched, a testament to nature's finest craftsmanship. Now, the question arises: do you possess the strength, the wisdom, and the courage to claim your place among these rulers of the deep?</h1>
       </div>
       <div className='rotate-screen' id="screen">
         <h1>Please rotate a screen for best experience</h1>
