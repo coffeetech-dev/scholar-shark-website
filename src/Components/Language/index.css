@@ -82,7 +82,7 @@ img.logo {
 }
 
 @media (max-height : 700px) and (orientation: landscape) {
-  .lang-selector {
+  /* .lang-selector {
     display: none;
   }
 
@@ -90,7 +90,7 @@ img.logo {
     display: flex;
     position: absolute;
     top: 0;
-  }
+  } */
 
   .shark-talk {
     display: none;
