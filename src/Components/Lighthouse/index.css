@@ -1250,13 +1250,13 @@ html {
 }
 
 @media (max-height : 700px) and (orientation: landscape){
-  .lang-selector {
+  /* .lang-selector {
     display: none;
   }
 
   .rotate-screen {
     display: flex;
-  }
+  } */
 }
 
 .deep-sea-bg {
