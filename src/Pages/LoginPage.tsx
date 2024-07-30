@@ -105,7 +105,7 @@ function LoginPage() {
                         <div className='formfield'>
                             <Button type='submit' fullWidth variant='contained' onClick={handleClick}>Login</Button>
                         </div>
-                        <Link to='/Register' className="linkDisplay">If you are not register member click here</Link>
+                        <Link to='/Register' className="linkDisplay">If you are not registered member click here</Link>
                         <Typography variant="body1">{loginErr}</Typography>
                     </div>
                 </div>
