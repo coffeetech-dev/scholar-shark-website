@@ -16,7 +16,7 @@ function useWindowSize() {
 
 function Lighthouse({light}: {light: boolean}) {
 
-  let lightShow = false
+  let lightShow = light
 
   const [width, height] = useWindowSize();
 

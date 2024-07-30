@@ -75,7 +75,7 @@ function Language() {
 
       <Lighthouse light />
       <div className='lang-selector card-glow-border lang-animation' id="lang-selector">
-        <div className='card-glow-border-inner'>
+        <div className='card-glow-border-inner glow-on-hovers'>
           <div>
             {/* <h1>
             Welcome to Scholarsharks
