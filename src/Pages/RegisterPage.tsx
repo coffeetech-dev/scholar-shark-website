@@ -126,6 +126,8 @@ function RegisterPage() {
                     // @ts-ignore
                     Userpool.signUp(email, password, attributeList, null, (err: any, data: any) => {
                         if (err) {
+                            alert(err);
+                            alert(err.message)
                             console.log(err);
                             alert("Couldn't sign up");
                         } else {
